@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/search.css">
+    <script src="js/script.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Das Buch der Drachen</title>
+</head>
+<body>
+    <div>
+        <H1>Suche einen Drachen</H1>
+        <input type="text" list="names" id="searchbar">
+        <button onclick="search()">Suchen</button>
+    </div>
+    <img src="!recources/images/logo.png" alt="">
+    <datalist id="names">
+        <option value="Dreifachstachel"></option>
+        <option value="Nachtschatten"></option>
+        <option value="Tagschatten"></option>
+        <option value="Tag-Nacht"></option>
+        <option value="Schneegeist"></option>
+        <option value="Skrill"></option>
+        <option value="Todbringer"></option>
+        <option value="Volträuber"></option>
+        <option value="Wollgeheul"></option>
+        <option value="Donnerklaue"></option>
+        <option value="Edelsteinbrecher"></option>
+        <option value="Funkelrüsche"></option>
+        <option value="Rumpelhorn"></option>
+        <option value="Schlammwühler"></option>
+        <option value="Schnüffbuckler"></option>
+        <option value="Snifflehide"></option>
+        <option value="Tödlicher Nadder"></option>
+        <option value="Vine Tail"></option>
+        <option value="Windknirscher"></option>
+        <option value="Abomiwurstler"></option>
+        <option value="Feuerschweif"></option>
+        <option value="Feuerwurm"></option>
+        <option value="Flammenpeitscher"></option>
+        <option value="Flammenwerfer"></option>
+        <option value="Himmelsbrenner"></option>
+        <option value="Humpelnder Grunzer"></option>
+        <option value="Kettenschwanz"></option>
+        <option value="Magmaspucker"></option>
+        <option value="Nachtschrecken"></option>
+        <option value="Feuerschrecken"></option>
+        <option value="Nachtschwarm"></option>
+        <option value="Nimmersatt"></option>
+        <option value="Riesenhafter Albtraum"></option>
+        <option value="Roter Tod"></option>
+        <option value="Alpha-Schatten"></option>
+        <option value="Kleiner Schatten"></option>
+        <option value="Schrecklicher Schrecken"></option>
+        <option value="Seifenblasenhorn"></option>
+        <option value="Silberphantom"></option>
+        <option value="Schneeschweif"></option>
+        <option value="Speischlonz"></option>
+        <option value="Taifumerang"></option>
+        <option value="Donnertrommler"></option>
+        <option value="Fathomfin"></option>
+        <option value="Flutdrache"></option>
+        <option value="Flutsegler"></option>
+        <option value="Glattstreicher"></option>
+        <option value="Glutkessel"></option>
+        <option value="Granatenfeuer"></option>
+        <option value="Großer Überwilder"></option>
+        <option value="Leuchtender Krayfin"></option>
+        <option value="Lila Tod"></option>
+        <option value="Nebeldreher"></option>
+        <option value="Sandgeist"></option>
+        <option value="Wüstengeist"></option>
+        <option value="Schiffbrecher"></option>
+        <option value="Schockrachen"></option>
+        <option value="Schrecken der Meere"></option>
+        <option value="Seastormer"></option>
+        <option value="Tiefseespalter"></option>
+        <option value="Windläufer"></option>
+        <option value="Dorngrat"></option>
+        <option value="Eierbeißer"></option>
+        <option value="Hackadu"></option>
+        <option value="Holzklau"></option>
+        <option value="Klingenpeitschling"></option>
+        <option value="Krallenkrabbler"></option>
+        <option value="Regenschneider"></option>
+        <option value="Säbelzahnknirscher"></option>
+        <option value="Schneller Stachel"></option>
+        <option value="Sägezahn"></option>
+        <option value="Sturmbrecher"></option>
+        <option value="Teufelsbraten"></option>
+        <option value="Tödlicher Sturmpeitscher"></option>
+        <option value="Windstürmer"></option>
+        <option value="Büffelstachel"></option>
+        <option value="Chimeragon"></option>
+        <option value="Deadly Spinner"></option>
+        <option value="Federhaut"></option>
+        <option value="Flügelschlange"></option>
+        <option value="Frostmare"></option>
+        <option value="Goldener Drache"></option>
+        <option value="Grausiger Zappelbocker"></option>
+        <option value="Höhlenbrecher"></option>
+        <option value="Immerflügler"></option>
+        <option value="Im Rauch verschwindender Qualmdrache"></option>
+        <option value="Knochenknacker"></option>
+        <option value="Knochenstürmer"></option>
+        <option value="Leuchtender Fluch"></option>
+        <option value="Liedflügler"></option>
+        <option value="Rüstungsflügler"></option>
+        <option value="Sandspucker"></option>
+        <option value="Schnappende Falle"></option>
+        <option value="Schreckensläufer"></option>
+        <option value="Schwertstehler"></option>
+        <option value="Seidenspanner"></option>
+        <option value="Spinnenflügler"></option>
+        <option value="Stachelschreck"></option>
+        <option value="Süßer Tod"></option>
+        <option value="Todsinger"></option>
+        <option value="Gleitgesang"></option>
+        <option value="Trampler"></option>
+        <option value="Wahnsinniger Zipper"></option>
+        <option value="Wechselflügler"></option>
+        <option value="Yetiwing"></option>
+        <option value="Zippergeist"></option>
+        <option value="Brummpölser"></option>
+        <option value="Donnerpolter"></option>
+        <option value="Eruptodon"></option>
+        <option value="Graveknapper"></option>
+        <option value="Schuldschlinger"></option>
+        <option value="Flammenrülpser"></option>
+        <option value="Flüsternder Tod"></option>
+        <option value="Brüllender Tod"></option>
+        <option value="Gronckel"></option>
+        <option value="Gruesome Goregripper"></option>
+        <option value="Kammsäbler"></option>
+        <option value="Katastrophaler Kiesklops"></option>
+        <option value="Kältegronckel"></option>
+        <option value="Raufender Greif"></option>
+        <option value="Reißzahn"></option>
+        <option value="Roter Aufspießer"></option>
+        <option value="Schaufelhelm"></option>
+        <option value="Stummschreckgespenst"></option>
+        <option value="Wächter"></option>
+        <option value="Brütender Donnerstampfer"></option>
+        <option value="Donnersteven"></option>
+        <option value="Raugnatzer"></option>
+        <option value="Schlafbocker"></option>
+        <option value="Stinger"></option>
+    </datalist>
+    
+</body>
+</html>

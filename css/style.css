@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Norse;
+    src: url("../!recources/fonts/Norsebold.otf");
+    font-weight: bold
+  }
+body {
+    font-family: Norse;
+    /*setting up background-image*/
+      background-image: url("../!recources/images/wooden-tabletop.png");
+      background-repeat: repeat-x;
+      background-size: auto 100vh;
+    /*turn off scrolling*/
+      overflow: hidden;
+    }
+    h1 {
+        font-size: 4vh;
+        text-decoration: underline;
+    }
