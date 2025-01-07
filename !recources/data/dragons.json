@@ -1,0 +1,2731 @@
+{
+    "Dreifachstachel":{
+        "name": "Dreifachstachel",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "48 Fuß",
+            "length": "30 Fuß",
+            "size": "30 Fuß / 9,1 Meter",
+            "weight": "900 Pfund"
+        },
+        "statistics": {
+            "attack": "15",
+            "speed": "20",
+            "armor": "18",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "18"
+        }
+    },
+    
+    "Nachtschatten":{
+        "name": "Nachtschatten",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "45 Fuß / 13,7 Meter",
+            "length": "26 Fuß / 7,9 Meter",
+            "size": "26 Fuß / 7,9 Meter",
+            "weight": "1776 Pfund / 805,6 Kilogramm / 14 Schafe"
+        },
+        "statistics": {
+            "attack": "15",
+            "speed": "20",
+            "armor": "18",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "18"
+        }
+    },
+    
+    "Tagschatten":{
+        "name": "Tagschatten",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "12,8 Meter",
+            "length": "6,7 Meter",
+            "size": "",
+            "weight": "726 Kilogramm"
+        },
+        "statistics": {
+            "attack": "15",
+            "speed": "20",
+            "armor": "18",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "18"
+        }
+    },
+    
+    "Tag-Nacht":{
+        "name": "Tag-Nacht",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "13,4 Meter",
+            "length": "7,3 Meter",
+            "size": "6,5 Fuß / 2 Meter",
+            "weight": "770 Kilogramm"
+        },
+        "statistics": {
+            "attack": "15",
+            "speed": "20",
+            "armor": "18",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": ""
+        }
+    },
+    
+    "Schneegeist":{
+        "name": "Schneegeist",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "48 Fuß ",
+            "length": "30 Fuß",
+            "size": "30 Fuß / 9,1 Meter",
+            "weight": "900 Pfund"
+        },
+        "statistics": {
+            "attack": "18",
+            "speed": "18",
+            "armor": "22",
+            "firepower": "24",
+            "shotLimit": "10",
+            "venom": "0",
+            "jawStrength": "8",
+            "stealth": "30"
+        }
+    },
+    
+    "Skrill":{
+        "name": "Skrill",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "40 Fuß",
+            "length": "22 Fuß",
+            "size": "22 Fuß / 6,7 Meter",
+            "weight": "1800 Pfund"
+        },
+        "statistics": {
+            "attack": "14",
+            "speed": "11",
+            "armor": "10",
+            "firepower": "12",
+            "shotLimit": "4",
+            "venom": "0",
+            "jawStrength": "5",
+            "stealth": "18"
+        }
+    },
+    
+    "Todbringer":{
+        "name": "Todbringer",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "9,8 Meter",
+            "length": "8,5 Meter",
+            "size": "",
+            "weight": "950 Kilogramm"
+        },
+        "statistics": {
+            "attack": "27",
+            "speed": "12",
+            "armor": "20",
+            "firepower": "12",
+            "shotLimit": "8",
+            "venom": "12",
+            "jawStrength": "16",
+            "stealth": "6"
+        }
+    },
+    
+    "Volträuber":{
+        "name": "Volträuber",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Wollgeheul":{
+        "name": "Wollgeheul",
+        "class": ["Angriffsklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Donnerklaue":{
+        "name": "Donnerklaue",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Edelsteinbrecher":{
+        "name": "Edelsteinbrecher",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "8 Fuß / 2,4 Meter",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "7",
+            "speed": "6",
+            "armor": "10",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Funkelrüsche":{
+        "name": "Funkelrüsche",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "3",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Rumpelhorn":{
+        "name": "Rumpelhorn",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "30 Fuß / 9,1 Meter",
+            "length": "11 Fuß / 3,4 Meter",
+            "size": "11 Fuß / 3,4 Meter",
+            "weight": "1100 Pfund / 499 Kilogramm / 9 Schafe"
+        },
+        "statistics": {
+            "attack": "11",
+            "speed": "7",
+            "armor": "12",
+            "firepower": "11",
+            "shotLimit": "4",
+            "venom": "0",
+            "jawStrength": "5",
+            "stealth": "6"
+        }
+    },
+    
+    "Schlammwühler":{
+        "name": "Schlammwühler",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "7",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+
+    "Schnüffbuckler":{
+        "name": "Schnüffbuckler",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Snifflehide":{
+        "name": "Snifflehide",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Tödlicher Nadder":{
+        "name": "Tödlicher Nadder",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "42 Fuß / 12,8 Meter",
+            "length": "30 Fuß / 9,1 Meter",
+            "size": "30 Fuß / 9,1 Meter",
+            "weight": "2600 Pfund / 1179,4 Kilogramm / 21 Schafe"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "8",
+            "armor": "16",
+            "firepower": "18",
+            "shotLimit": "6",
+            "venom": "16",
+            "jawStrength": "5",
+            "stealth": "10"
+        }
+    },
+    
+    "Vine Tail":{
+        "name": "Vine Tail",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Windknirscher":{
+        "name": "Windknirscher",
+        "class": ["Aufspürerklasse"],
+        "measurements": {
+            "wingspan": "30 Fuß / 9,1 Meter",
+            "length": "25 Fuß / 7,6 Meter",
+            "size": "",
+            "weight": "2000 Pfund / 907 Kilogramm"
+        },
+        "statistics": {
+            "attack": "14",
+            "speed": "16",
+            "armor": "18",
+            "firepower": "9",
+            "shotLimit": "16",
+            "venom": "0",
+            "jawStrength": "18",
+            "stealth": "10"
+        }
+    },
+    
+    "Abomiwurstler":{
+        "name": "Abomiwurstler",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Feuerschweif":{
+        "name": "Feuerschweif",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "91,4 Meter",
+            "length": "45,7 Meter",
+            "size": "150 Fuß / 45,7 Meter",
+            "weight": "816 Kilogramm"
+        },
+        "statistics": {
+            "attack": "17",
+            "speed": "15",
+            "armor": "15",
+            "firepower": "20",
+            "shotLimit": "10",
+            "venom": "0",
+            "jawStrength": "4",
+            "stealth": "10"
+        }
+    },
+    
+    "Feuerwurm":{
+        "name": "Feuerwurm",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "1,3 Zentimeter",
+            "length": "5 Zentimeter",
+            "size": "36 Fuß / 11 Meter",
+            "weight": "340 Gramm"
+        },
+        "statistics": {
+            "attack": "4",
+            "speed": "3",
+            "armor": "5",
+            "firepower": "30",
+            "shotLimit": "2",
+            "venom": "0",
+            "jawStrength": "0",
+            "stealth": "6"
+        }
+    },
+    
+    "Flammenpeitscher":{
+        "name": "Flammenpeitscher",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Flammenwerfer":{
+        "name": "Flammenwerfer",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Himmelsbrenner":{
+        "name": "Himmelsbrenner",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Humpelnder Grunzer":{
+        "name": "Humpelnder Grunzer",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "63 Fuß / 19,2 Meter",
+            "length": "55 Fuß / 16,8 Meter",
+            "size": "9 Fuß / 2,7 Meter",
+            "weight": "4500 Pfund / 2041,2 Kilogramm / 36 Schafe"
+        },
+        "statistics": {
+            "attack": "18",
+            "speed": "4",
+            "armor": "16",
+            "firepower": "18",
+            "shotLimit": "13",
+            "venom": "0",
+            "jawStrength": "7",
+            "stealth": "5"
+        }
+    },
+    
+    "Kettenschwanz":{
+        "name": "Kettenschwanz",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "51 Fuß / 15,5 Meter",
+            "length": "40 Fuß / 12,2 Meter",
+            "size": "",
+            "weight": "1900 Pfund / 862 Kilogramm"
+        },
+        "statistics": {
+            "attack": "14",
+            "speed": "6",
+            "armor": "3",
+            "firepower": "10",
+            "shotLimit": "6",
+            "venom": "40",
+            "jawStrength": "2",
+            "stealth": "7"
+        }
+    },
+    
+    "Magmaspucker":{
+        "name": "Magmaspucker",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "7",
+            "speed": "4",
+            "armor": "8",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Nachtschrecken":{
+        "name": "Nachtschrecken",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "1,5 Meter",
+            "length": "1 Meter",
+            "size": "3 Fuß / 0,9 Meter",
+            "weight": "6,5 Kilogramm"
+        },
+        "statistics": {
+            "attack": "6",
+            "speed": "6",
+            "armor": "4",
+            "firepower": "10",
+            "shotLimit": "5",
+            "venom": "0",
+            "jawStrength": "3",
+            "stealth": "14"
+        }
+    },
+    
+    "Feuerschrecken":{
+        "name": "Feuerschrecken",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "1,5 Meter",
+            "length": "1 Meter",
+            "size": "3 Fuß / 0,9 Meter",
+            "weight": "6,5 Kilogramm"
+        },
+        "statistics": {
+            "attack": "6",
+            "speed": "6",
+            "armor": "4",
+            "firepower": "10",
+            "shotLimit": "5",
+            "venom": "0",
+            "jawStrength": "3",
+            "stealth": "14"
+        }
+    },
+    
+    "Nachtschwarm":{
+        "name": "Nachtschwarm",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "1,5 Meter",
+            "length": "1 Meter",
+            "size": "3 Fuß / 0,9 Meter",
+            "weight": "6,5 Kilogramm"
+        },
+        "statistics": {
+            "attack": "6",
+            "speed": "6",
+            "armor": "4",
+            "firepower": "10",
+            "shotLimit": "5",
+            "venom": "0",
+            "jawStrength": "3",
+            "stealth": "14"
+        }
+    },
+    
+    "Nimmersatt":{
+        "name": "Nimmersatt",
+        "class": ["Chaosklasse", "Phantomklasse"],
+        "measurements": {
+            "wingspan": "2,5 Fuß",
+            "length": "3 Fuß",
+            "size": "",
+            "weight": "55 Pfund"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "8",
+            "armor": "4",
+            "firepower": "6",
+            "shotLimit": "28",
+            "venom": "0",
+            "jawStrength": "12",
+            "stealth": "18"
+        }
+    },
+    
+    "Riesenhafter Albtraum":{
+        "name": "Riesenhafter Albtraum",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "68 Fuß / 20,7 Meter",
+            "length": "61 Fuß / 18,6 Meter",
+            "size": "61 Fuß / 18,6 Meter",
+            "weight": "5000 Pfund / 2268 Kilogramm / 40 Schafe"
+        },
+        "statistics": {
+            "attack": "15",
+            "speed": "16",
+            "armor": "12",
+            "firepower": "15",
+            "shotLimit": "10",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "9"
+        }
+    },
+    
+    "Roter Tod":{
+        "name": "Roter Tod",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "550 Fuß / 168 Meter ",
+            "length": "300 Meter",
+            "size": "99 Fuß / 30,2 Meter",
+            "weight": "9000 Kilogramm"
+        },
+        "statistics": {
+            "attack": "28",
+            "speed": "7",
+            "armor": "30",
+            "firepower": "27",
+            "shotLimit": "9",
+            "venom": "0",
+            "jawStrength": "22",
+            "stealth": "2"
+        }
+    },
+    
+    "Alpha-Schatten":{
+        "name": "Alpha-Schatten",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "60 Fuß / 18,3 Meter",
+            "length": "40 Fuß / 12,2 Meter",
+            "size": "",
+            "weight": "1600 Pfund / 726 Kilogramm"
+        },
+        "statistics": {
+            "attack": "25",
+            "speed": "14",
+            "armor": "15",
+            "firepower": "18",
+            "shotLimit": "60",
+            "venom": "0",
+            "jawStrength": "12",
+            "stealth": "4"
+        }
+    },
+    
+    "Kleiner Schatten":{
+        "name": "Kleiner Schatten",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "5 Fuß / 1,5 Meter",
+            "length": "3 Fuß / 1 Meter",
+            "size": "",
+            "weight": "14 Pfund / 6,4 Kilogramm"
+        },
+        "statistics": {
+            "attack": "25",
+            "speed": "14",
+            "armor": "15",
+            "firepower": "18",
+            "shotLimit": "60",
+            "venom": "0",
+            "jawStrength": "12",
+            "stealth": "4"
+        }
+    },
+    
+    "Schrecklicher Schrecken":{
+        "name": "Schrecklicher Schrecken",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "6 Fuß / 1,8 Meter",
+            "length": "6 Fuß / 1,8 Meter",
+            "size": "5,9 Fuß / 1,81 Meter1,5 Fuß / 0,5 Meter",
+            "weight": "20 Pfund / 9,1 Kilogramm / 1 Schafsbein"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "10",
+            "armor": "6",
+            "firepower": "12",
+            "shotLimit": "10",
+            "venom": "12",
+            "jawStrength": "2",
+            "stealth": "12"
+        }
+    },
+    
+    "Seifenblasenhorn":{
+        "name": "Seifenblasenhorn",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "7",
+            "speed": "6",
+            "armor": "5",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Silberphantom":{
+        "name": "Silberphantom",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schneeschweif":{
+        "name": "Schneeschweif",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Speischlonz":{
+        "name": "Speischlonz",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Taifumerang":{
+        "name": "Taifumerang",
+        "class": ["Chaosklasse"],
+        "measurements": {
+            "wingspan": "15 Meter",
+            "length": "10,5 Meter",
+            "size": "28 Fuß / 8,5 Meter",
+            "weight": "430 Kilogramm"
+        },
+        "statistics": {
+            "attack": "14",
+            "speed": "20",
+            "armor": "12",
+            "firepower": "17",
+            "shotLimit": "10",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "6"
+        }
+    },
+    
+    "Donnertrommler":{
+        "name": "Donnertrommler",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "48 Fuß / 14,6 Meter",
+            "length": "68 Fuß / 20,7 Meter",
+            "size": "68 Fuß / 20,7 Meter (Erwachsen)",
+            "weight": "900 Pfund / 408,2 Kilogramm / 7 Schafe"
+        },
+        "statistics": {
+            "attack": "12",
+            "speed": "14",
+            "armor": "10",
+            "firepower": "16",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "7",
+            "stealth": "8"
+        }
+    },
+    
+    "Fathomfin":{
+        "name": "Fathomfin",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Flutdrache":{
+        "name": "Flutdrache",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Flutsegler":{
+        "name": "Flutsegler",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Glattstreicher":{
+        "name": "Glattstreicher",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "4",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Glutkessel":{
+        "name": "Glutkessel",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "22,9 Meter",
+            "length": "20 Meter",
+            "size": "28,2 Fuß / 8,6 Meter",
+            "weight": "1400 Kilogramm"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "6 ",
+            "armor": "6",
+            "firepower": "14",
+            "shotLimit": "14",
+            "venom": "10",
+            "jawStrength": "4",
+            "stealth": "10"
+        }
+    },
+    
+    "Granatenfeuer":{
+        "name": "Granatenfeuer",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "58 Meter",
+            "length": "49 Meter",
+            "size": "160 Fuß / 48,8 Meter",
+            "weight": "3447 Kilogramm"
+        },
+        "statistics": {
+            "attack": "20",
+            "speed": "14",
+            "armor": "16",
+            "firepower": "22",
+            "shotLimit": "8",
+            "venom": "0",
+            "jawStrength": "15",
+            "stealth": "17"
+        }
+    },
+    
+    "Großer Überwilder":{
+        "name": "Großer Überwilder",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "150 Fuß / 45,7 Meter",
+            "length": "520 Fuß / 158,5 Meter",
+            "size": "160,5 Fuß / 48,9 Meter",
+            "weight": "9 Tonnen / 9000 Kilogramm / 150 Schafe"
+        },
+        "statistics": {
+            "attack": "50",
+            "speed": "6",
+            "armor": "38",
+            "firepower": "60",
+            "shotLimit": "8",
+            "venom": "0",
+            "jawStrength": "48",
+            "stealth": "2"
+        }
+    },
+    
+    "Leuchtender Krayfin":{
+        "name": "Leuchtender Krayfin",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Lila Tod":{
+        "name": "Lila Tod",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Nebeldreher":{
+        "name": "Nebeldreher",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "14 Fuß / 4,3 Meter",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "8 ",
+            "speed": "7",
+            "armor": "7",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Sandgeist":{
+        "name": "Sandgeist",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+   "Wüstengeist": {
+        "name": "Wüstengeist",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schiffbrecher":{
+        "name": "Schiffbrecher",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schockrachen":{
+        "name": "Schockrachen",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "9",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schrecken der Meere":{
+        "name": "Schrecken der Meere",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "50 Fuß / 15,2 Meter",
+            "length": "52 Fuß / 15,8 Meter",
+            "size": "17,1 Fuß / 5,2 Meter",
+            "weight": "2200 Pfund / 997,9 Kilogramm / 18 Schafe"
+        },
+        "statistics": {
+            "attack": "18",
+            "speed": "16",
+            "armor": "20",
+            "firepower": "7",
+            "shotLimit": "12",
+            "venom": "14",
+            "jawStrength": "8",
+            "stealth": "10"
+        }
+    },
+    
+    "Seastormer":{
+        "name": "Seastormer",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Tiefseespalter":{
+        "name": "Tiefseespalter",
+        "class": ["Aufspürerklasse", "Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "21,3 Meter",
+            "length": "15,2 Meter",
+            "size": "50 Fuß / 15,2 Meter",
+            "weight": "1633 Kilogramm"
+        },
+        "statistics": {
+            "attack": "20",
+            "speed": "16",
+            "armor": "14",
+            "firepower": "0",
+            "shotLimit": "0",
+            "venom": "0",
+            "jawStrength": "30",
+            "stealth": "12"
+        }
+    },
+    
+    "Windläufer":{
+        "name": "Windläufer",
+        "class": ["Gezeitenklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Dorngrat":{
+        "name": "Dorngrat",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Eierbeißer":{
+        "name": "Eierbeißer",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Hackadu":{
+        "name": "Hackadu",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Holzklau":{
+        "name": "Holzklau",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "90 Fuß / 27,4 Meter",
+            "length": "60 Fuß / 18,3 Meter",
+            "size": "11,7 Fuß / 3,6 Meter",
+            "weight": "900 Pfund / 408,2 Kilogramm / 7 Schafe"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "12",
+            "armor": "8",
+            "firepower": "10",
+            "shotLimit": "8",
+            "venom": "0",
+            "jawStrength": "3",
+            "stealth": "13"
+        }
+    },
+    
+    "Klingenpeitschling":{
+        "name": "Klingenpeitschling",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "14,6 Meter",
+            "length": "18,3 Meter",
+            "size": "60 Fuß / 18,3 Meter",
+            "weight": "408 Kilogramm"
+        },
+        "statistics": {
+            "attack": "18",
+            "speed": "18",
+            "armor": "32",
+            "firepower": "12",
+            "shotLimit": "10",
+            "venom": "8",
+            "jawStrength": "7",
+            "stealth": "5"
+        }
+    },
+    
+    "Krallenkrabbler":{
+        "name": "Krallenkrabbler",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "20 Fuß / 6,1 Meter",
+            "length": "18 Fuß / 5,5 Meter",
+            "size": "",
+            "weight": "600 Pfund / 272,2 Kilogramm / 5 Schafe"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "16",
+            "armor": "8",
+            "firepower": "10",
+            "shotLimit": "8",
+            "venom": "2",
+            "jawStrength": "3",
+            "stealth": "10"
+        }
+    },
+    
+    "Regenschneider":{
+        "name": "Regenschneider",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "60 Fuß / 18,3 Meter",
+            "length": "50 Fuß / 15,2 Meter",
+            "size": "",
+            "weight": "2100 Pfund / 952,6 Kilogramm / 17 Schafe"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "8",
+            "armor": "6",
+            "firepower": "12",
+            "shotLimit": "10",
+            "venom": "6",
+            "jawStrength": "5",
+            "stealth": "14"
+        }
+    },
+    
+    "Säbelzahnknirscher":{
+        "name": "Säbelzahnknirscher",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "4,3 Meter",
+            "length": "3 Meter",
+            "size": "10 Fuß / 3 Meter",
+            "weight": "181 Kilogramm"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "12",
+            "armor": "7",
+            "firepower": "9",
+            "shotLimit": "5",
+            "venom": "0",
+            "jawStrength": "12",
+            "stealth": "7"
+        }
+    },
+    
+    "Schneller Stachel":{
+        "name": "Schneller Stachel",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "0 Meter",
+            "length": "5 Meter",
+            "size": "7,1 Fuß / 2,2 Meter",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "12",
+            "speed": "30",
+            "armor": "10",
+            "firepower": "0",
+            "shotLimit": "0",
+            "venom": "15",
+            "jawStrength": "5",
+            "stealth": "30"
+        }
+    },
+    
+    "Sägezahn":{
+        "name": "Sägezahn",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "4",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Sturmbrecher":{
+        "name": "Sturmbrecher",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "48 Fuß / 14,6 Meter",
+            "length": "31 Fuß / 9,4 Meter",
+            "size": "48 Fuß / 14,6 Meter",
+            "weight": "2500 Pfund / 1134 Kilogramm / 20 Schafe"
+        },
+        "statistics": {
+            "attack": "6",
+            "speed": "8",
+            "armor": "4",
+            "firepower": "12",
+            "shotLimit": "8",
+            "venom": "0",
+            "jawStrength": "5",
+            "stealth": "13"
+        }
+    },
+    
+    "Teufelsbraten":{
+        "name": "Teufelsbraten",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Tödlicher Sturmpeitscher":{
+        "name": "Tödlicher Sturmpeitscher",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Windstürmer":{
+        "name": "Windstürmer",
+        "class": ["Pfeilklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Büffelstachel":{
+        "name": "Büffelstachel",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "15,2 Meter",
+            "length": "9,1 Meter",
+            "size": "30 Fuß / 9,1 Meter",
+            "weight": "430 Kilogramm"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "6",
+            "armor": "16",
+            "firepower": "12",
+            "shotLimit": "6",
+            "venom": "20",
+            "jawStrength": "6",
+            "stealth": "4"
+        }
+    },
+    
+    "Chimeragon":{
+        "name": "Chimeragon",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Deadly Spinner":{
+        "name": "Deadly Spinner",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Federhaut":{
+        "name": "Federhaut",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "6,5 Fuß / 2 Meter",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "9",
+            "speed": "9",
+            "armor": "6",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Flügelschlange":{
+        "name": "Flügelschlange",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "18 Meter",
+            "length": "12 Meter",
+            "size": "40 Fuß / 12,2 Meter",
+            "weight": "450 Kilogramm"
+        },
+        "statistics": {
+            "attack": "14",
+            "speed": "18",
+            "armor": "13",
+            "firepower": "0",
+            "shotLimit": "0",
+            "venom": "20",
+            "jawStrength": "8",
+            "stealth": "9"
+        }
+    },
+    
+    "Frostmare":{
+        "name": "Frostmare",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "10",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Goldener Drache":{
+        "name": "Goldener Drache",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "14",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Grausiger Zappelbocker":{
+        "name": "Grausiger Zappelbocker",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Höhlenbrecher":{
+        "name": "Höhlenbrecher",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "0 Meter",
+            "length": "18 Meter",
+            "size": "60 Fuß / 18,3 Meter",
+            "weight": "454 Kilogramm"
+        },
+        "statistics": {
+            "attack": "14",
+            "speed": "18",
+            "armor": "16",
+            "firepower": "20",
+            "shotLimit": "16",
+            "venom": "0",
+            "jawStrength": "8",
+            "stealth": "16"
+        }
+    },
+    
+    "Immerflügler":{
+        "name": "Immerflügler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Im Rauch verschwindender Qualmdrache":{
+        "name": "Im Rauch verschwindender Qualmdrache",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "3 Meter",
+            "length": "1,8 Meter",
+            "size": "2,5 Fuß / 0,8 Meter",
+            "weight": "63 Kilogramm"
+        },
+        "statistics": {
+            "attack": "4",
+            "speed": "8",
+            "armor": "6",
+            "firepower": "6",
+            "shotLimit": "3",
+            "venom": "0",
+            "jawStrength": "8",
+            "stealth": "15"
+        }
+    },
+    
+    "Knochenknacker":{
+        "name": "Knochenknacker",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Knochenstürmer":{
+        "name": "Knochenstürmer",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Leuchtender Fluch":{
+        "name": "Leuchtender Fluch",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "15 Meter",
+            "length": "9 Meter",
+            "size": "70 Fuß / 21,3 Meter",
+            "weight": "270 Kilogramm "
+        },
+        "statistics": {
+            "attack": "5",
+            "speed": "8",
+            "armor": "4",
+            "firepower": "7",
+            "shotLimit": "4",
+            "venom": "10",
+            "jawStrength": "4",
+            "stealth": "7"
+        }
+    },
+    
+    "Liedflügler":{
+        "name": "Liedflügler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "12",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Rüstungsflügler":{
+        "name": "Rüstungsflügler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "24,4 Meter",
+            "length": "21,3 Meter",
+            "size": "70 Fuß / 21,3 Meter",
+            "weight": "1100 Kilogramm"
+        },
+        "statistics": {
+            "attack": "12",
+            "speed": "7",
+            "armor": "50",
+            "firepower": "10",
+            "shotLimit": "4",
+            "venom": "0",
+            "jawStrength": "11",
+            "stealth": "1"
+        }
+    },
+    
+    "Sandspucker":{
+        "name": "Sandspucker",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "15 Meter",
+            "length": "24 Meter",
+            "size": "80 Fuß / 24,4 Meter",
+            "weight": "450 Kilogramm"
+        },
+        "statistics": {
+            "attack": "13",
+            "speed": "11",
+            "armor": "8",
+            "firepower": "10",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "17"
+        }
+    },
+    
+    "Schnappende Falle":{
+        "name": "Schnappende Falle",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "11 Meter",
+            "length": "21 Meter",
+            "size": "9,4 Fuß / 2,9 Meter",
+            "weight": "2630 Kilogramm"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "4",
+            "armor": "4",
+            "firepower": "6",
+            "shotLimit": "4",
+            "venom": "18",
+            "jawStrength": "28",
+            "stealth": "60"
+        }
+    },
+    
+    "Schreckensläufer":{
+        "name": "Schreckensläufer",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schwertstehler":{
+        "name": "Schwertstehler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Seidenspanner":{
+        "name": "Seidenspanner",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Spinnenflügler":{
+        "name": "Spinnenflügler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "6",
+            "armor": "8",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Stachelschreck":{
+        "name": "Stachelschreck",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "12",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Süßer Tod":{
+        "name": "Süßer Tod",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "5",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Todsinger":{
+        "name": "Todsinger",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "26 Meter",
+            "length": "23 Meter",
+            "size": "75 Fuß / 22,9 Meter",
+            "weight": "544 Kilogramm"
+        },
+        "statistics": {
+            "attack": "16",
+            "speed": "17",
+            "armor": "16",
+            "firepower": "13",
+            "shotLimit": "8",
+            "venom": "0",
+            "jawStrength": "10",
+            "stealth": "0"
+        }
+    },
+    
+    "Gleitgesang":{
+        "name": "Gleitgesang",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Trampler":{
+        "name": "Trampler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "10,6 Meter",
+            "length": "6 Meter",
+            "size": "20 Fuß / 6,1 Meter",
+            "weight": "272 Kilogramm"
+        },
+        "statistics": {
+            "attack": "18",
+            "speed": "14",
+            "armor": "8",
+            "firepower": "20",
+            "shotLimit": "40",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "8"
+        }
+    },
+    
+    "Wahnsinniger Zipper":{
+        "name": "Wahnsinniger Zipper",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "38 Fuß / 11,6 Meter",
+            "length": "66 Fuß / 20,1 Meter",
+            "size": "38 Fuß / 11,6 Meter",
+            "weight": "6000 Pfund / 2721,6 Kilogramm / 48 Schafe"
+        },
+        "statistics": {
+            "attack": "12",
+            "speed": "10",
+            "armor": "10",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "6",
+            "stealth": "22"
+        }
+    },
+    
+    "Wechselflügler":{
+        "name": "Wechselflügler",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "9 Meter",
+            "length": "12 Meter",
+            "size": "8,4 Fuß / 2,6 Meter",
+            "weight": "430 Kilogramm"
+        },
+        "statistics": {
+            "attack": "9",
+            "speed": "14",
+            "armor": "1",
+            "firepower": "12",
+            "shotLimit": "10",
+            "venom": "0",
+            "jawStrength": "2",
+            "stealth": "20"
+        }
+    },
+    
+    "Yetiwing":{
+        "name": "Yetiwing",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Zippergeist":{
+        "name": "Zippergeist",
+        "class": ["Phantomklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "10",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Brummpölser":{
+        "name": "Brummpölser",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Donnerpolter":{
+        "name": "Donnerpolter",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "4",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Eruptodon":{
+        "name": "Eruptodon",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "9 Meter",
+            "length": "6 Meter",
+            "size": "",
+            "weight": "1090 Kilogramm"
+        },
+        "statistics": {
+            "attack": "9",
+            "speed": "7",
+            "armor": "36",
+            "firepower": "8",
+            "shotLimit": "7",
+            "venom": "0",
+            "jawStrength": "14",
+            "stealth": "2"
+        }
+    },
+    
+    "Graveknapper":{
+        "name": "Graveknapper",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "8",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schuldschlinger":{
+        "name": "Schuldschlinger",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "9",
+            "speed": "6",
+            "armor": "10",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Flammenrülpser":{
+        "name": "Flammenrülpser",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "18 Fuß / 5,5 Meter",
+            "length": "14 Fuß / 4,3 Meter",
+            "size": "8,1 Fuß / 2,5 Meter",
+            "weight": "5700 Pfund / 2585,5 Kilogramm / 46 Schafe"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "4",
+            "armor": "20",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "8",
+            "stealth": "5"
+        }
+    },
+    
+    "Flüsternder Tod":{
+        "name": "Flüsternder Tod",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "10 Fuß / 3 Meter",
+            "length": "50 Fuß / 15,2 Meter",
+            "size": "7,6 Fuß / 2,3 Meter",
+            "weight": "2500 Pfund / 1134 Kilogramm"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "7",
+            "armor": "7",
+            "firepower": "3",
+            "shotLimit": "1",
+            "venom": "2",
+            "jawStrength": "4",
+            "stealth": "10"
+        }
+    },
+    
+    "Brüllender Tod":{
+        "name": "Brüllender Tod",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "3 Meter",
+            "length": "15 Meter",
+            "size": "16 Fuß / 4,9 Meter",
+            "weight": "1100 Kilogramm"
+        },
+        "statistics": {
+            "attack": "16",
+            "speed": "8",
+            "armor": "20",
+            "firepower": "10",
+            "shotLimit": "2",
+            "venom": "10",
+            "jawStrength": "11",
+            "stealth": "14"
+        }
+    },
+    
+    "Gronckel":{
+        "name": "Gronckel",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "18 Fuß / 5,5 Meter",
+            "length": "14 Fuß / 4,3 Meter",
+            "size": "14 Fuß / 4,3 Meter (Erwachsen)",
+            "weight": "5700 Pfund / 2585,5 Kilogramm / 46 Schafe"
+        },
+        "statistics": {
+            "attack": "8",
+            "speed": "4",
+            "armor": "20",
+            "firepower": "14",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "8",
+            "stealth": "5"
+        }
+    },
+    
+    "Gruesome Goregripper":{
+        "name": "Gruesome Goregripper",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Kammsäbler":{
+        "name": "Kammsäbler",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "10",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Katastrophaler Kiesklops":{
+        "name": "Katastrophaler Kiesklops",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "2,4 Meter",
+            "length": "9 Meter",
+            "size": "",
+            "weight": "1134 Kilogramm"
+        },
+        "statistics": {
+            "attack": "12",
+            "speed": "14",
+            "armor": "35",
+            "firepower": "10",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "20",
+            "stealth": "3"
+        }
+    },
+    
+    "Kältegronckel":{
+        "name": "Kältegronckel",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "10",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Raufender Greif":{
+        "name": "Raufender Greif",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "6",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Reißzahn":{
+        "name": "Reißzahn",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "40 Fuß / 12,2 Meter",
+            "length": "30 Fuß / 9,1 Meter",
+            "size": "",
+            "weight": "2814 Pfund / 1276,4 Kilogramm / 22 Schafe"
+        },
+        "statistics": {
+            "attack": "9",
+            "speed": "5",
+            "armor": "17",
+            "firepower": "13",
+            "shotLimit": "6",
+            "venom": "12",
+            "jawStrength": "8",
+            "stealth": "8"
+        }
+    },
+    
+    "Roter Aufspießer":{
+        "name": "Roter Aufspießer",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "7,3 Meter",
+            "length": "9,1 Meter",
+            "size": "",
+            "weight": "1134 Kilogramm"
+        },
+        "statistics": {
+            "attack": "17",
+            "speed": "10",
+            "armor": "18",
+            "firepower": "12",
+            "shotLimit": "6",
+            "venom": "0",
+            "jawStrength": "12",
+            "stealth": "13"
+        }
+    },
+    
+    "Schaufelhelm":{
+        "name": "Schaufelhelm",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "40 Fuß / 12,2 Meter",
+            "length": "30 Fuß / 9,1 Meter",
+            "size": "",
+            "weight": "3500 Pfund / 1588 Kilogramm"
+        },
+        "statistics": {
+            "attack": "10",
+            "speed": "5",
+            "armor": "20",
+            "firepower": "10",
+            "shotLimit": "6",
+            "venom": "8",
+            "jawStrength": "16",
+            "stealth": "8"
+        }
+    },
+    
+    "Stummschreckgespenst":{
+        "name": "Stummschreckgespenst",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "14",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Wächter":{
+        "name": "Wächter",
+        "class": ["Wackersteinklasse"],
+        "measurements": {
+            "wingspan": "18,2 Meter",
+            "length": "9,1 Meter",
+            "size": "30 Fuß / 9,1 Meter",
+            "weight": "544 Kilogramm"
+        },
+        "statistics": {
+            "attack": "12",
+            "speed": "8",
+            "armor": "15",
+            "firepower": "6",
+            "shotLimit": "8",
+            "venom": "0",
+            "jawStrength": "10",
+            "stealth": "16"
+        }
+    },
+    
+    "Brütender Donnerstampfer":{
+        "name": "Brütender Donnerstampfer",
+        "class": ["none"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Donnersteven":{
+        "name": "Donnersteven",
+        "class": ["none"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Raugnatzer":{
+        "name": "Raugnatzer",
+        "class": ["none"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Schlafbocker":{
+        "name": "Schlafbocker",
+        "class": ["none"],
+        "measurements": {
+            "wingspan": "",
+            "length": "",
+            "size": "",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    },
+    
+    "Stinger":{
+        "name": "Stinger",
+        "class": ["none"],
+        "measurements": {
+            "wingspan": "",
+            "length": "14 Fuß / 4,3 Meter (Kurzflügler)5 Meter (Kurzflügler)",
+            "size": "2 Meter (Kurzflügler)",
+            "weight": ""
+        },
+        "statistics": {
+            "attack": "",
+            "speed": "",
+            "armor": "",
+            "firepower": "",
+            "shotLimit": "",
+            "venom": "",
+            "jawStrength": "",
+            "stealth": ""
+        }
+    }
+}
