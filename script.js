@@ -7,7 +7,7 @@ function set_dragonsJSON(){
 }
 
 function home(){
-    window.location.replace("../index.html")
+    window.location.replace("index.html")
 }
 
 function search(){
@@ -23,20 +23,20 @@ function setData() {
     loadPaper()
 }
 function loadPaper(){
-    window.location.replace("../paper.html")
+    window.location.replace("paper.html")
 }
 function displayData(){
     currentDragonData = JSON.parse(localStorage.getItem("currentDragonData"))
     document.getElementById("name").innerHTML = currentDragonData.name
-    document.getElementById("preview").src = `../!recources/data/images/dragons/${currentDragonData.name}.jpg`
-    document.getElementById("class_icon").src = `../!recources/data/images/icons/Klassen/${currentDragonData.class[0]}_Symbol.webp`
+    document.getElementById("preview").src = `!recources/data/images/dragons/${currentDragonData.name}.jpg`
+    document.getElementById("class_icon").src = `!recources/data/images/icons/Klassen/${currentDragonData.class[0]}_Symbol.webp`
     if (currentDragonData.class[0] == "none"){
         document.getElementById("class_span").innerHTML = "Unbekannt"
     } else{
         document.getElementById("class_span").innerHTML = currentDragonData.class[0]
     }
     if (currentDragonData.class.length > 1) {
-        document.getElementById("class_icon2").src = `../!recources/data/images/icons/Klassen/${currentDragonData.class[1]}_Symbol.webp`
+        document.getElementById("class_icon2").src = `!recources/data/images/icons/Klassen/${currentDragonData.class[1]}_Symbol.webp`
         document.getElementById("class_span2").innerHTML = currentDragonData.class[1]
     }
     if (currentDragonData.measurements.wingspan == ""){
